@@ -16,7 +16,7 @@ Pré-requisitos:
 Configuração:
 1. Clonar o repositório do Git para sua máquina local;
 ```shell
-        https://github.com/carolineoliveiraa/APIBancoCentral.git
+        https://github.com/carolineoliveiraa/APIEnviarEmail.git
 ```
 2. Entrar no application.properties
 ```shell
